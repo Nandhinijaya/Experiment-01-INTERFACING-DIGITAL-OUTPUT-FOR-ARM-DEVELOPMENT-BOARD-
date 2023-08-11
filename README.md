@@ -174,10 +174,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
- 
- ![on](https://github.com/Nandhinijaya/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/121998147/bb2d2c4b-ef32-4397-b1cc-e3fda53b6488)
 
- ![off](https://github.com/Nandhinijaya/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/121998147/de8a28b0-2981-4640-b937-701ed5612b73)
+ ![on](https://github.com/Nandhinijaya/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/121998147/9f652341-794b-4d86-84bd-4c03813f4633)
+
+![off](https://github.com/Nandhinijaya/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/121998147/af734fd0-3c7b-40f4-8f17-a49a062ddcbc)
 
  
 ## Result :
