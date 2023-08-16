@@ -82,6 +82,7 @@ The main features of LPC2148 include the following.
 ```
 NAME: NANDHINI E
 REGISTER: 212222100030
+DEPARTMENT: BE CSE(CYBER SECURITY)
 ```
 ```
 #include "main.h"
